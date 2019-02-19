@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-    <RootNamespace>equinops_test</RootNamespace>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>

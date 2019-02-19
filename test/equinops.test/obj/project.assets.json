@@ -5826,11 +5826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\inetpub\\architectures\\eqiunops-fx\\test\\equinops-test\\equinops-test.csproj",
-      "projectName": "equinops-test",
-      "projectPath": "C:\\inetpub\\architectures\\eqiunops-fx\\test\\equinops-test\\equinops-test.csproj",
+      "projectUniqueName": "C:\\inetpub\\architectures\\equinops-fx\\test\\equinops.test\\equinops.test.csproj",
+      "projectName": "equinops.test",
+      "projectPath": "C:\\inetpub\\architectures\\equinops-fx\\test\\equinops.test\\equinops.test.csproj",
       "packagesPath": "C:\\Users\\DTBIISLAM\\.nuget\\packages\\",
-      "outputPath": "C:\\inetpub\\architectures\\eqiunops-fx\\test\\equinops-test\\obj\\",
+      "outputPath": "C:\\inetpub\\architectures\\equinops-fx\\test\\equinops.test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

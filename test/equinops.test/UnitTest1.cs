@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace equinops_test
+namespace equinops.test
 {
     [TestClass]
     public class UnitTest1
