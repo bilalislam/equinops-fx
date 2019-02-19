@@ -1,0 +1,9 @@
+C:\inetpub\architectures\eqiunops-fx\src\equinops\bin\Debug\netstandard2.0\equinops.deps.json
+C:\inetpub\architectures\eqiunops-fx\src\equinops\bin\Debug\netstandard2.0\equinops.dll
+C:\inetpub\architectures\eqiunops-fx\src\equinops\bin\Debug\netstandard2.0\equinops.pdb
+C:\inetpub\architectures\eqiunops-fx\src\equinops\obj\Debug\netstandard2.0\equinops.csprojAssemblyReference.cache
+C:\inetpub\architectures\eqiunops-fx\src\equinops\obj\Debug\netstandard2.0\equinops.csproj.CoreCompileInputs.cache
+C:\inetpub\architectures\eqiunops-fx\src\equinops\obj\Debug\netstandard2.0\equinops.AssemblyInfoInputs.cache
+C:\inetpub\architectures\eqiunops-fx\src\equinops\obj\Debug\netstandard2.0\equinops.AssemblyInfo.cs
+C:\inetpub\architectures\eqiunops-fx\src\equinops\obj\Debug\netstandard2.0\equinops.dll
+C:\inetpub\architectures\eqiunops-fx\src\equinops\obj\Debug\netstandard2.0\equinops.pdb
