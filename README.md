@@ -3,5 +3,7 @@
 #Road Map
 1. provide dynamic event sourcing
 2. simple cqrs pattern base implementation
-3. yeoman cli support
-4. jenkins-x implementation on k8s
+3. wcf & rest support as service registry
+4. yeoman cli support
+5. jenkins-x implementation on k8s
+
