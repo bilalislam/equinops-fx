@@ -7,3 +7,5 @@
 4. yeoman cli support
 5. jenkins-x implementation on k8s
 
+# wiki
+https://github.com/bilalislam/equinops-fx/wiki
